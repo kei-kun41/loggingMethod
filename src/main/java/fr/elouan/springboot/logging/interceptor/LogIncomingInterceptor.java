@@ -1,6 +1,6 @@
-package fr.elouan.springboot.test.test.interceptor;
+package fr.elouan.springboot.logging.interceptor;
 
-import fr.elouan.springboot.test.test.service.LoggingService;
+import fr.elouan.springboot.logging.service.LoggingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;

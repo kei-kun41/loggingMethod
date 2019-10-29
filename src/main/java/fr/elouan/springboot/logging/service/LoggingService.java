@@ -1,4 +1,4 @@
-package fr.elouan.springboot.test.test.service;
+package fr.elouan.springboot.logging.service;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

@@ -1,4 +1,4 @@
-package fr.elouan.springboot.test.test.service;
+package fr.elouan.springboot.logging.service;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package fr.elouan.springboot.test.test.interceptor;
+package fr.elouan.springboot.logging.interceptor;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

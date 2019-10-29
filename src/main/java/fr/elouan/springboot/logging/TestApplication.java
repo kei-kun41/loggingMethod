@@ -1,4 +1,4 @@
-package fr.elouan.springboot.test.test;
+package fr.elouan.springboot.logging;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

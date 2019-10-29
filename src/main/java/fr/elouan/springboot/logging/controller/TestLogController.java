@@ -1,6 +1,6 @@
-package fr.elouan.springboot.test.test.controller;
+package fr.elouan.springboot.logging.controller;
 
-import fr.elouan.springboot.test.test.interceptor.LogOutgoingInterceptor;
+import fr.elouan.springboot.logging.interceptor.LogOutgoingInterceptor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.client.BufferingClientHttpRequestFactory;
@@ -9,8 +9,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
-
-import java.util.Collections;
 
 @RestController("/test")
 public class TestLogController {

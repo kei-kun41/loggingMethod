@@ -1,6 +1,6 @@
-package fr.elouan.springboot.test.test.adapter;
+package fr.elouan.springboot.logging.adapter;
 
-import fr.elouan.springboot.test.test.service.LoggingService;
+import fr.elouan.springboot.logging.service.LoggingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.MethodParameter;
 import org.springframework.http.HttpInputMessage;

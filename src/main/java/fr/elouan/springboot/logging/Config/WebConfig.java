@@ -1,6 +1,6 @@
-package fr.elouan.springboot.test.test.Config;
+package fr.elouan.springboot.logging.Config;
 
-import fr.elouan.springboot.test.test.interceptor.LogIncomingInterceptor;
+import fr.elouan.springboot.logging.interceptor.LogIncomingInterceptor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
